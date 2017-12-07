@@ -1,4 +1,4 @@
-# sample_revenue_dashboard_shiny
+# Simple Revenue Dashboard Shiny
 Code and Plots used in DS+ article of Revenue Dashboard
 
 Screenshot #1:
