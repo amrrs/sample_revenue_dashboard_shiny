@@ -1,5 +1,5 @@
 # Simple Revenue Dashboard Shiny
-Code and Plots used in DS+ article: https://datascienceplus.com/building-a-simple-sales-revenue-dashboard-with-r-shiny-shinydashboard/
+Code and Plots used in the related article
 
 Screenshot #1:
 
